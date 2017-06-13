@@ -1,4 +1,4 @@
-package com.github.util;
+package com.github.util.unsafe;
 
 import sun.misc.Unsafe;
 
